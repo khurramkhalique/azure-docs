@@ -1,0 +1,218 @@
+<!doctype html>
+<html>
+<head>
+
+
+
+<meta charset="utf-8">
+
+<!-- Latest compiled and minified CSS -->
+
+
+<!--
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+ <!-- <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>-->
+<title>Untitled Document</title>
+<link href="css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-theme.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/MyCss.css" rel="stylesheet" type="text/css">
+
+
+<!-- Latest compiled and minified JavaScript -->
+
+
+
+
+</head>
+
+
+
+
+
+
+
+<body style="background-color:#f2f2f2; background-image:url(Imgs/Body%20back.png); background-repeat: no-repeat; background-position: right top; background-attachment: fixed;">
+
+
+
+<!--------------------Start Work----------------------->
+<div class="row ">
+<div class="container">
+<div class="col-md-4">
+<img class="img-responsive" src=""/>
+</div>
+<div class="col-md-8"></div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="row ">
+<div class="container">
+<div class="col-md-3">
+  </div>
+   <div class="col-md-6">
+<img class="img-responsive" src="Imgs/centre Imafge.png"/>   
+<h2 style="margin-left:30px;text-align:center;">YOU LOVE AT YOUR DOOR STEP</h2>
+   </div>
+<div class="col-md-3"></div>
+</div>
+</div>
+
+
+<!----------------Search Box--------------->
+
+<div class="row">
+<div style="margin-top:60px;" class="container r">
+    <div class="col-md-3"></div>
+        <div class="col-md-6">
+        
+        <h3 style="color:#FFF;text-align:center;">RESPONSIVE SEARCH BOX ON BOOTSTRAP</h3>
+            <form action="" class="search-form">
+                <div class="form-group has-feedback">
+            		<label for="search" class="sr-only">Search</label>
+            		<input type="text" class="form-control" name="search" id="search" placeholder="search">
+              		<span class="glyphicon glyphicon-search form-control-feedback"></span>
+            	</div>
+            </form>
+        </div>
+    <div class="col-md-3"></div>
+</div>
+</div>
+
+<!----------------Search Box End------------->
+
+<!----------------Part1---------------------->
+
+<div class="row partscolor">
+<div class="container">
+
+
+<div class="col-md-1"></div>
+<div class="col-md-11">
+<h2 style="color:#FFF;margin-left:30px;text-align:center;">WE HAVE SIMPLE AND SMARTEST WAY TO ORDER FOOD</h2>
+</div>
+
+<div style="margin-top:150px;margin-bottom:80px;" class="row secindpink">
+<div class="col-md-4">
+<img class="img-responsive imgbor" src="Imgs/kfc.jpg"/>
+<h3 style="color:#FFF;text-align:center;">KFC Delivery</h3>
+<p style="color:#FFF;text-align:center;">Lunch & Dinner Delivery
+</br>Est. 45-55 mins</p>
+</div>
+
+<div class="col-md-4">
+<img class="img-responsive imgbor" src="Imgs/mcdonnalds.jpg"/>
+<h3 style="color:#FFF;text-align:center;">McDonald's Delivery</h3>
+<p style="color:#FFF;text-align:center;">Lunch & Dinner Delivery
+</br>Est. 45-55 mins</p>
+</div>
+
+<div class="col-md-4">
+<img class="img-responsive imgbor" src="Imgs/pizzahut.jpg"/>
+<h3 style="color:#FFF;text-align:center;">Pizzahut Delivery</h3>
+<p style="color:#FFF;text-align:center;">Lunch & Dinner Delivery
+</br>Est. 45-55 mins</p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+<!----------------END Part 1----------------->
+
+
+<!----------------Part 2--------------------->
+<div class="row part2color">
+<div class="container">
+<div class="col-md-3"></div>
+
+<div class="col-md-6">
+<h1 style="text-align:center;">Design By</h1>
+<img class="img-responsive" src=""/>
+<p style="text-align:center">
+If like most of us your life is crowded and busy, you might not have time to cook great food in the evenings, and who wants to eat ready meals all the time? Going out to a restaurant too often can get expensive, so why not consider ordering a food delivery from your favourite take out restaurant using our service? Simply place an online food order for the kind of meal you want, and our cheap food delivery service will bring the takeaway order straight to your door without you needing to leave your home. We believe we are the best food delivery service to be found in your area, and when you're hungry our quick food delivery drivers will speed your order to you, piping hot and delicious, fresh from the kitchen to your plate. Order food delivery from us and we'll race to your favourite outlet to bring you your food in no time - we guarantee you'll find us to be the top food delivery service you've used. We can offer appetising cuisines of all types, so whatever mood you're in we have the food to defeat your hunger pangs at any time of day or night.
+Whenever hunger strikes, our all day delivery service can accommodate your needs. From a spicy lunch delivery of curry to a romantic evening delivery for two, we have you covered. Order a delicious meal for a quick brunch delivery after sleeping late, or for early starters our breakfast delivery will set you up for the day ahead. For a late night delivery when the fridge is empty and no one else can help, simply order through us, or after a heavy late shift at work a 24 hour delivery will save you from the dreaded stale sandwich from the all night shop. Whether you need food with a morning delivery or a night delivery we're here to help, and to impress guests at a dinner party our gourmet dinner delivery service will handle your order confidentially. Finally, if you left for work late and didn't have time to pick something up along the way, our cheap lunch delivery service is there for you to ensure you can eat well without leaving your desk. Whatever your food preferences and whatever your requirements, using our service will ensure you can enjoy high quality food at a great price, all in the comfort of your own home.</p>
+</div>
+
+<div class="col-md-3"></div>
+</div>
+</div>
+<!---------------END Part 2------------------>
+
+<!---------------Part 3----------------------->
+
+<div class="row partscolor">
+<div class="container">
+<div class="col-md-5"><img src="Imgs/half pizza.png" class="img-responsive"/></div>
+<div class="col-md-7">
+<p style="color:#FFF;"></br></br></br></br>Pizza is prepared fresh, frozen, and as portion-size slices or pieces. Methods have been developed to overcome challenges such as preventing the sauce from combining with the dough and producing a crust that can be frozen and reheated without becoming rigid. There are frozen pizzas with raw ingredients and self-rising crusts.
+</br>
+Another form of uncooked pizza is available from take and bake pizzerias. This pizza is assembled in the store, then sold to customers to bake in their own ovens. Some grocery stores sell fresh dough along with sauce and basic ingredients, to complete at home before baking in an oven.</p>
+</div>
+</div>
+</div>
+
+<!--------------END Part 3-------------------->
+<!---------------Part 4---------------------->
+<div class="row">
+<div class="container">
+<div class="col-md-3"></div>
+<div class="col-md-6"><h1 style="text-align:center;color:#d8433f;">Chose Your Favourite Resturant And Order</h1></div>
+<div class="col-md-3"></div>
+</div>
+</div>
+<!---------------END Part 4------------------>
+<!---------------Part 5------------------>
+<div class="row partscolor">
+<div style="margin-top:40px;margin-bottom:40px;" class="container secindpink">
+<div class="col-md-4"><img class="img-responsive" src="Imgs/plates.png"/></div>
+<div class="col-md-8">
+<h1 style="color:#FFF">There Will be Heading</h1>
+<p style="color:#FFF">If like most of us your life is crowded and busy, you might not have time to cook great food in the evenings, and who wants to eat ready meals all the time? Going out to a restaurant too often can get expensive, so why not consider ordering a food delivery from your favourite take out restaurant using our service?</p>
+<p style="color:#FFF"><b>consider ordering a food delivery from your favourite take out restaurant using our service?</b></p>
+</div>
+</div>
+
+<div style="margin-top:90px;margin-bottom:40px;" class="container secindpink">
+<div class="col-md-8">
+
+<h1 style="color:#FFF">There Will be Heading</h1>
+<p style="color:#FFF">If like most of us your life is crowded and busy, you might not have time to cook great food in the evenings, and who wants to eat ready meals all the time? Going out to a restaurant too often can get expensive, so why not consider ordering a food delivery from your favourite take out restaurant using our service?</p>
+<p style="color:#FFF"><b>consider ordering a food delivery from your favourite take out restaurant using our service?</b></p>
+</div>
+<div class="col-md-4"><img class="img-responsive" src="Imgs/delivery.png"/></div>
+</div>
+
+</div>
+<!---------------END Part 5------------------>
+<!---------------Footer--------------------->
+
+<div style="background-color: rgba(0, 0, 0, 0.3);" class="row">
+<div class="container">
+<div class="col-md-4"></div>
+<div class="col-md-4"><p style="color:#FFF;text-align:center;margin-top:20px;margin-bottom:20px;">Copyright <b>khurram khalique</b></p></div>
+<div class="col-md-4"></div>
+</div>
+</div>
+
+<!--------------END Footer------------------->
+<!--------------------End Work------------------------->
+
+  
+</body>
+</html>
